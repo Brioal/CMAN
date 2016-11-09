@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">厕所侠</string>
+    <string name="title_activity_device_detail">DeviceDetailActivity</string>
+</resources>

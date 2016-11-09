@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tablayout"
+        app:tabMode="scrollable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:tabSelectedTextColor="@color/colorWhite"
+        app:tabTextColor="@color/colorLightWhite">
+
+    </android.support.design.widget.TabLayout>
+    <com.brioal.cman.view.HorizontalScroll
+        android:id="@+id/dialog_setting_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!--基本设置-->
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/base_recycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </android.support.v7.widget.RecyclerView>
+        <!--高级设置-->
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/advance_recycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </android.support.v7.widget.RecyclerView>
+    </com.brioal.cman.view.HorizontalScroll>
+</LinearLayout>

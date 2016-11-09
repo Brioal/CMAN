@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--标题栏-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary">
+
+        <ImageButton
+            android:id="@+id/fra_envir_btn_close"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:layout_marginRight="10dp"
+            android:background="@color/colorTrans"
+            android:scaleType="centerInside"
+            android:src="@mipmap/ic_close"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:text="环境设置"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"/>
+
+        <ImageButton
+            android:id="@+id/fra_envir_btn_done"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:layout_marginRight="10dp"
+            android:background="@color/colorTrans"
+            android:scaleType="centerInside"
+            android:src="@mipmap/ic_done"/>
+    </RelativeLayout>
+    <!--温度设置-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="温度选择"
+            android:textColor="@color/colorLightBlack"
+            android:textSize="17sp"/>
+
+        <com.brioal.seekbar.RangeBar
+            android:id="@+id/fra_envir_rangeBar_temp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/colorOffset"/>
+    </LinearLayout>
+    <!--湿度设置-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="湿度选择"
+            android:textColor="@color/colorLightBlack"
+            android:textSize="17sp"/>
+
+        <com.brioal.seekbar.RangeBar
+            android:id="@+id/fra_envir_rangeBar_humi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/colorOffset"/>
+    </LinearLayout>
+    <!--气味灵敏度设置-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="气味灵敏度选择"
+            android:textColor="@color/colorLightBlack"
+            android:textSize="17sp"/>
+
+        <RadioGroup
+            android:id="@+id/fra_envir_rg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/fra_envir_rb_yiban"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="一般"
+                android:textColor="@color/colorLightBlack"
+                android:textSize="16sp"
+                app:theme="@style/green_radiobutton"
+                tools:ignore="MissingPrefix"/>
+
+            <RadioButton
+                android:id="@+id/fra_envir_rb_linming"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="灵敏"
+                android:textColor="@color/colorLightBlack"
+                android:textSize="16sp"
+                app:theme="@style/green_radiobutton"
+                tools:ignore="MissingPrefix"/>
+
+            <RadioButton
+                android:id="@+id/fra_envir_rb_minggan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="敏感"
+                android:textColor="@color/colorLightBlack"
+                android:textSize="16sp"
+                app:theme="@style/green_radiobutton"
+                tools:ignore="MissingPrefix"/>
+        </RadioGroup>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/colorOffset"/>
+
+        <Switch
+            android:id="@+id/envir_auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:gravity="center_vertical"
+            android:text="自动模式"
+            android:textColor="@color/colorLightBlack"
+            android:textSize="20sp"
+            app:theme="@style/green_radiobutton"
+            tools:ignore="MissingPrefix"/>
+
+        <Switch
+            android:id="@+id/envir_clience"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:gravity="center_vertical"
+            android:text="静音模式"
+            android:textColor="@color/colorLightBlack"
+            android:textSize="20sp"
+            app:theme="@style/green_radiobutton"
+            tools:ignore="MissingPrefix"/>
+
+
+    </LinearLayout>
+</LinearLayout>

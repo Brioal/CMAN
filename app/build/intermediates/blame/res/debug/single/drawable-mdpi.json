@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_load_done.png",
+        "source": "/home/brioal/Android/CMAN/app/build/generated/res/pngs/debug/drawable-mdpi/ic_load_done.png"
+    },
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_load_failed.png",
+        "source": "/home/brioal/Android/CMAN/app/build/generated/res/pngs/debug/drawable-mdpi/ic_load_failed.png"
+    },
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_load_connecting.png",
+        "source": "/home/brioal/Android/CMAN/app/build/generated/res/pngs/debug/drawable-mdpi/ic_load_connecting.png"
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorExCircle">#5e1ec1b5</color>
+    <color name="colorInCircle">#1EC1B5</color>
+    <color name="colorNormal">#454646</color>
+    <color name="colorSelect">#ffffff</color>
+    <declare-styleable name="BottomLayout"><attr format="color" name="colorNormal"/><attr format="color" name="colorSelected"/><attr format="dimension" name="textSize"/><attr format="color" name="exCircleColor"/><attr format="color" name="inCircleColor"/><attr format="integer" name="animDuration"/></declare-styleable>
+    <string name="app_name">BottomTab</string>
+</resources>

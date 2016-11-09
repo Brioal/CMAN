@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.github.Brioal/NormalRangeSeekBar/1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3387d98757b5b04932ef9d33e818ef65471b863">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.github.Brioal-NormalRangeSeekBar-1.0_118a0bdeebd8f498548fee97a126e8dbbdcee39e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_66c635becf1d497bad1904d6a0f99b93c5c29978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2c9eb6e7adfe4a5d9922d77f3d68c020e43c4337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_2113b56da96275e3c4bae2722f04baee8d27fb87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_4ca456c40b077cd08850e2c43b96bd03eacb712d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_20a1d113271ef8984afce0d917555c57d7568b57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_adc1cc06a4e26ae03e856438b8b5f93366c5929b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_ef7e4feee0e9562d0c2470ae4224bb34a143f04b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.github.Brioal/BottomTabLayout/1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="667189f580621782b7945e83f0e9f050bb140155">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.github.Brioal-BottomTabLayout-1.3_9d95a3a00a7792364f06b4699fdfcc56afb3584b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.github.Brioal/BaseLibManager/1.6/jars/libs/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045fb2cfdb71150d2ee00926e5f10f13efe81186">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_0e1bb7b916406cb75180e58841d23e3d0c7965d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_b20fc9eceef05164a247c1efe782b68463f9b6ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_ef9e26c8309afb1a92fac384d6f48610a25165dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_e9d15be216419a6733fa49bec65bf4e446b5cde0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.1_3902d2a59ec8af13dba8d351c9e765f33766f837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.github.Brioal/BrioalSetting/1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bb15fd361ff79a4113f87736447c1b1ee8fcb26">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.github.Brioal-BrioalSetting-1.0_a6590b80a8fb0935a0c9e3df44f66f166da30789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_cf7c3488390d225656a07e34bb15a80698f5f472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.github.Brioal/BaseLibManager/1.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20f4ae60df2613243c351deb3d4309f1b85afd76">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.github.Brioal-BaseLibManager-1.6_6711fd121898ea3a1cb72a8d118760ebe2fda7b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_31360c8f98e00b5f7515ff706042da48b81f78d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_26124ab0e7744b89e3731458b97be458c5e16b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.github.Brioal/VertalSwipeContent/1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e322b02d9bc24ca2afbef3e2fe2ec6e019a26d1">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.github.Brioal-VertalSwipeContent-1.3_9628789a732c15ba54d7db01d8df85721a41762a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_8f8e90db596074e08798e6904358b3535892d2cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.github.Brioal/DrawableAnimation/1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c76c5d7e5d023a7ba7963a13edfaa76db4952e5e">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.github.Brioal-DrawableAnimation-1.0_039402b85625c4f49b7e913b92709e520c9d745e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_595d983c6f08930401d53e363db5988f0e1c8a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1ed4f789d3adb5650215cc6473ee74b6a7fe870a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_48347e734afe3445da767e296fa2064a094d790c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_86025fde8e05a20e2a9b99f9a64020e80f4a4e70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/brioal/Android/CMAN/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_4dc207a46a0ee5319786aae78b523472b8702f64.jar" />
+    </item>
+
+</items>

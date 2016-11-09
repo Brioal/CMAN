@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_load_done.xml",
+        "source": "/home/brioal/Android/CMAN/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_load_done.xml"
+    },
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_load_connecting.xml",
+        "source": "/home/brioal/Android/CMAN/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_load_connecting.xml"
+    },
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_load_failed.xml",
+        "source": "/home/brioal/Android/CMAN/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_load_failed.xml"
+    }
+]

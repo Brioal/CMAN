@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/release/mipmap-hdpi/rod_place_icon.png",
+        "source": "/home/brioal/Android/CMAN/app/src/main/res/mipmap-hdpi/rod_place_icon.png"
+    },
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_devices.png",
+        "source": "/home/brioal/Android/CMAN/app/src/main/res/mipmap-hdpi/ic_devices.png"
+    },
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/release/mipmap-hdpi/dot_a.png",
+        "source": "/home/brioal/Android/CMAN/app/src/main/res/mipmap-hdpi/dot_a.png"
+    },
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/brioal/Android/CMAN/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/release/mipmap-hdpi/rod_handshank_butten.png",
+        "source": "/home/brioal/Android/CMAN/app/src/main/res/mipmap-hdpi/rod_handshank_butten.png"
+    }
+]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorCirlce">#26b934</color>
+    <color name="colorPoint">#26b934</color>
+    <color name="colorText">#ffffff</color>
+    <string name="app_name">SeekBar</string>
+</resources>

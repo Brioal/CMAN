@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/debug/mipmap/shadow_left.png",
+        "source": "/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.github.Brioal/BaseLibManager/1.6/res/mipmap/shadow_left.png"
+    },
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/debug/mipmap/shadow_bottom.png",
+        "source": "/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.github.Brioal/BaseLibManager/1.6/res/mipmap/shadow_bottom.png"
+    },
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/debug/mipmap/shadow_right.png",
+        "source": "/home/brioal/Android/CMAN/app/build/intermediates/exploded-aar/com.github.Brioal/BaseLibManager/1.6/res/mipmap/shadow_right.png"
+    }
+]

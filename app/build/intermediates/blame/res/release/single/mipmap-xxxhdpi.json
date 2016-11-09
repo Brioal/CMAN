@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_devices.png",
+        "source": "/home/brioal/Android/CMAN/app/src/main/res/mipmap-xxxhdpi/ic_devices.png"
+    },
+    {
+        "merged": "/home/brioal/Android/CMAN/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/brioal/Android/CMAN/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

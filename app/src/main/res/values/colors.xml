@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E89E7</color>
+    <color name="colorTransPrimary">#8e1e89e7</color>
+    <color name="colorPrimaryDark">#1E89E7</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTrans">#00000000</color>
+    <color name="colorDarkWhite">#aaffffff</color>
+    <color name="colorGrey">#e7e7e7</color>
+    <color name="colorPoint">#26b934</color>
+    <color name="colorCirlce">#26b934</color>
+    <color name="colorText">#ffffff</color>
+    <color name="colorOnLine">#434141</color>
+    <color name="colorOffLine">#8c8c8c</color>
+    <color name="grey">#808080</color><!--灰色 -->
+    <color name="blue">#0000ff</color><!--蓝色 -->
+    <color name="gainsboro">#dcdcdc</color><!--淡灰色 -->
+    <color name="colorFirst">#4996EA</color>
+    <color name="colorSecond">#303F9F</color>
+    <color name="colorThird">#4096D1</color>
+</resources>

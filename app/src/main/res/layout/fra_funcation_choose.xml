@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--标题栏-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:text="功能选择"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"/>
+
+        <ImageButton
+            android:id="@+id/fra_envir_btn_close"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:layout_marginRight="10dp"
+            android:background="@color/colorTrans"
+            android:scaleType="centerInside"
+            android:src="@mipmap/ic_close"/>
+
+    </RelativeLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@color/colorOffset"/>
+    <!--功能选择模块-->
+
+
+    <Switch
+        android:id="@+id/funcation_chushi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="除湿"
+        android:textColor="@color/colorLightBlack"
+        android:textSize="18sp"
+        app:theme="@style/green_radiobutton"
+        tools:ignore="MissingPrefix"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@color/colorOffset"/>
+
+
+    <Switch
+        android:id="@+id/funcation_chuchou"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="除臭"
+        android:textColor="@color/colorLightBlack"
+        android:textSize="18sp"
+        app:theme="@style/green_radiobutton"
+        tools:ignore="MissingPrefix"/>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@color/colorOffset"/>
+
+    <Switch
+        android:id="@+id/funcation_jiare"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="加热"
+        android:textColor="@color/colorLightBlack"
+        android:textSize="18sp"
+        app:theme="@style/green_radiobutton"
+        tools:ignore="MissingPrefix"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@color/colorOffset"/>
+
+
+</LinearLayout>
